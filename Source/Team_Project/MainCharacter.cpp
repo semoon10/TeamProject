@@ -94,6 +94,7 @@ void AMainCharacter::Right(float value)
 void AMainCharacter::Turn(float value)
 {
 	AddControllerYawInput(value);
+//test
 
 }
 
